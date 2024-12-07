@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\thirdparty_api_intigration.props" />
+</Project>
